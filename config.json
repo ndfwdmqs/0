@@ -20,7 +20,7 @@
 			"streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "VMESS_WSPATH"
+					"path": "b50c-c49fb663e86b"
 				}
 			}
 		},
